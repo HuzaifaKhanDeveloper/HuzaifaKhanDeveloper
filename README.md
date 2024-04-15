@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a blockchain expert with over 3 years of experience. I specialize in creating safe and efficient smart contracts and Dapps. If you're thinking of making your own tokens or NFTs, or need help with DEX protocols like Aave and Uniswap, I'm here for you. I'm skilled in Python, Javascript, Brownie, Hardhat, NextJS, and Foundry. My goal is to make your project secure and cost-effective. Let's chat and see how I can help you succeed!<br>
+Meet Muhammad Huzaifa Khan, a skilled blockchain developer and smart contract auditor with over 3 years of experience. I'm fluent in JavaScript, Solidity, Rust, and Python, and can make REST APIs. My work involves projects like tokenizing assets, making decentralized apps (DApps), and setting up decentralized finance (DeFi) systems.
 
 
 ## 🌐 Socials:
