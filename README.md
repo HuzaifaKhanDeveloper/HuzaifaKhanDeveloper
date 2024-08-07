@@ -1,24 +1,49 @@
-# 💫 About Me:
-Meet Muhammad Huzaifa Khan, a skilled blockchain developer and smart contract auditor with over 3 years of experience. I'm fluent in JavaScript, Solidity, Rust, and Python, and can make REST APIs. My work involves projects like tokenizing assets, making decentralized apps (DApps), and setting up decentralized finance (DeFi) systems.
+<h1 align="center">Welcome to my profile</h1>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/huzaifakhandev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifakhandev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/huzaifakhandev) 
-
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HuzaifaKhanDeveloper&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaKhanDeveloper&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaKhanDeveloper&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HuzaifaKhanDeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Github Profile Watchers](https://komarev.com/ghpvc/?username=supercoolx&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/supercoolx)
+![GitHub User's stars](https://img.shields.io/github/stars/supercoolx)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HuzaifaKhanDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### My Stack 💪💪💪
+
+![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=bitcoin)
+![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
+![Binance](https://img.shields.io/badge/-Binance-333333?style=flat&logo=binance)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=228475)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=v)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=CodeIgniter)
+![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+---
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=supercoolx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="54.25%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supercoolx&layout=compact&langs_count=6&theme=algolia" width="45.25%"/>
+</p>
+
+----
+Credits: [HuzaifaKhanDev](https://github.com/HuzaifaKhanDeveloper)
+
+Last Edited on: 12/09/2021 
