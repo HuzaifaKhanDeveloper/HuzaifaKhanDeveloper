@@ -44,6 +44,6 @@
 </p>
 
 ----
-Credits: [HuzaifaKhanDev](https://github.com/HuzaifaKhanDeveloper)
+Credits: [Huzaifa Khan](https://github.com/HuzaifaKhanDeveloper)
 
 Last Edited on: 8/07/2024
