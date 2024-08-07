@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my profile</h1>
 
-![Github Profile Watchers](https://komarev.com/ghpvc/?username=supercoolx&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/supercoolx)
-![GitHub User's stars](https://img.shields.io/github/stars/supercoolx)
+![Github Profile Watchers](https://komarev.com/ghpvc/?username=HuzaifaKhanDeveloper&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/HuzaifaKhanDeveloper)
+![GitHub User's stars](https://img.shields.io/github/stars/HuzaifaKhanDeveloper)
 
 ---
 
