@@ -77,7 +77,7 @@ I help businesses in banking, insurance, healthcare, logistics, and more leverag
 Feel free to reach out anytime—I'm available 24/7 and will respond promptly.
 
 - **Email:** [huzaifakhandeveloper@gmail.com](mailto:huzaifakhandeveloper@gmail.com)
-- **LinkedIn:** [linkedin.com/in/huzaifakhan-dev](https://www.linkedin.com/in/huzaifakhandev/)
+- **LinkedIn:** [linkedin.com/in/huzaifakhandev](https://www.linkedin.com/in/huzaifakhandev/)
 - **Ko-fi:** [ko-fi.com/huzaifakhandev](https://ko-fi.com/huzaifakhandev)
 
 ## 🌐 Connect with Me
