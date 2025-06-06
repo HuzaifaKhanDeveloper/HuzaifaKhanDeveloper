@@ -9,13 +9,11 @@
   <img src="https://img.shields.io/github/stars/HuzaifaKhanDeveloper?style=flat&color=0e75b6" alt="GitHub stars"/>
 </p>
 
----
+<hr style="border:0.5px solid #444; margin: 18px 0;">
 
 ## ⭐ Why Work With Me?
 
 > **Working with me will not cost you money, but will help you make money.**
-
----
 
 ## 👨‍💻 About Me
 
@@ -24,16 +22,12 @@ I help businesses in banking, insurance, healthcare, logistics, and more leverag
 
 - **Languages & Tools:** JavaScript, Solidity, Rust, Python, ReactJS, NextJS, VueJS, NodeJS, AngularJS, ExpressJS, PHP, Django, MySQL, MongoDB
 
----
-
 ## 🚀 What I Do
 
 - Build scalable, modern web and blockchain applications
 - Architect robust backends and beautiful frontends
 - Contribute to open source and help the dev community
 - Always learning the latest in tech, cloud, and blockchain
-
----
 
 ## 🛡️ Services & Specialties
 
@@ -45,8 +39,6 @@ I help businesses in banking, insurance, healthcare, logistics, and more leverag
 - Cross-chain smart contract development
 - Website & REST API development
 
----
-
 ## 🏅 Achievements & Highlights
 
 - Top contributor in several open source projects
@@ -54,15 +46,11 @@ I help businesses in banking, insurance, healthcare, logistics, and more leverag
 - Featured Project: [Lofi Chill](https://github.com/HuzaifaKhanDeveloper/lofi-chill)
 - Blogger: Regularly write about tech, blockchain, and productivity
 
----
-
 ## 🧑‍💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,react,redux,vue,angular,typescript,javascript,nodejs,express,php,laravel,mysql,mongodb,firebase,bootstrap,sass,html,css,git,github,heroku" />
 </p>
-
----
 
 ## 🛠️ How I Work
 
@@ -70,8 +58,6 @@ I help businesses in banking, insurance, healthcare, logistics, and more leverag
 - Full ownership and access to source code for clients
 - Clear, detailed audit reports for client and investor confidence
 - 24/7 availability and prompt communication
-
----
 
 ## 📈 GitHub Analytics
 
@@ -86,8 +72,6 @@ I help businesses in banking, insurance, healthcare, logistics, and more leverag
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaKhanDeveloper&theme=algolia" width="99%"/>
 </p>
 
----
-
 ## 📬 Contact
 
 Feel free to reach out anytime—I'm available 24/7 and will respond promptly.
@@ -95,8 +79,6 @@ Feel free to reach out anytime—I'm available 24/7 and will respond promptly.
 - **Email:** [huzaifakhandeveloper@gmail.com](mailto:huzaifakhandeveloper@gmail.com)
 - **LinkedIn:** [linkedin.com/in/huzaifakhan-dev](https://www.linkedin.com/in/huzaifakhandev/)
 - **Ko-fi:** [ko-fi.com/huzaifakhandev](https://ko-fi.com/huzaifakhandev)
-
----
 
 ## 🌐 Connect with Me
 
@@ -106,8 +88,6 @@ Feel free to reach out anytime—I'm available 24/7 and will respond promptly.
   <a href="https://github.com/HuzaifaKhanDeveloper" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://ko-fi.com/huzaifakhandev" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-29abe0?style=flat&logo=ko-fi&logoColor=white"/></a>
 </p>
-
----
 
 ## 💖 Support My Work
 
@@ -119,7 +99,7 @@ Feel free to reach out anytime—I'm available 24/7 and will respond promptly.
   <b>Your support helps me keep building and sharing awesome projects. Thank you!</b>
 </p>
 
----
+<hr style="border:0.5px solid #444; margin: 18px 0;">
 
 <p align="center">
   <i>Credits: <a href="https://github.com/HuzaifaKhanDeveloper">Huzaifa Khan</a></i><br>
